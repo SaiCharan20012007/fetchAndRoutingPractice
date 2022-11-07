@@ -1,0 +1,47 @@
+/* Write your CSS code here */
+.blog-item-container {
+  list-style-type: none;
+  border-style: solid;
+  padding: 20px;
+  min-height: 200px;
+  width: 700px;
+  border-width: 2px;
+  border-radius: 7px;
+  margin: 20px;
+  border-color: #8e8e8e;
+  display: flex;
+}
+.blog-list-image {
+  height: 200px;
+  width: 280px;
+  border-radius: 5px;
+}
+.blog-list-content {
+  width: 100%;
+  padding: 10px;
+}
+.blog-topic {
+  color: #d3d3d3;
+}
+.blog-title {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 500;
+}
+.author-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+}
+.author-profile {
+  display: flex;
+  margin-top: 10px;
+}
+.author-name {
+  color: #d3d3d3;
+  margin: 0px;
+  margin-left: 10px;
+}
+.link-container {
+  text-decoration: none;
+}
